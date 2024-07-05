@@ -2,10 +2,10 @@
 name = "clock"
 version = "0.1.0"
 edition = "2021"
-#build="build.rs"
+build="build.rs"
 
 [build-dependencies]
-#embed-resource = "2.4.2"
+embed-resource = "2.4.2"
 
 
 [dependencies]
