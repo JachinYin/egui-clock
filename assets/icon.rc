@@ -1,0 +1,2 @@
+// 第一列为任意名称即可,第二列为固定ICON用于设置资源类型,第三列为ico文件的路径
+iconName ICON "favicon.ico"
